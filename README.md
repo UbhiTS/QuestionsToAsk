@@ -1,7 +1,7 @@
-# QuestionsToAsk :chicken: <img src="https://poa5qzspd7.execute-api.us-east-1.amazonaws.com/live/hypercounterimage/8f27d4a61b7c44f58658e41dd7d8597a/counter.png" />
+# Questions to ask your Interviewer :chicken: <img src="https://poa5qzspd7.execute-api.us-east-1.amazonaws.com/live/hypercounterimage/8f27d4a61b7c44f58658e41dd7d8597a/counter.png" />
 The list of questions you can ask your interviewer categorized by the interviewer's designation
 
-## \<your peer>
+## Your Peer
 * What do the day-to-day responsibilities of the role look like?
 * How is the work-life balance. Is the work culture aggressive? Long hours?
 * Assuming COVID situation is gone, is traveling required?
