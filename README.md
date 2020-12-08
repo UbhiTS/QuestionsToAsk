@@ -7,11 +7,13 @@ The list of questions you can ask your interviewer categorized by the interviewe
 * Assuming COVID situation is gone, is traveling required?
 * How is the energy? What do you do for fun ?
 * Knowing my background, what do you think I need to focus on to succeed?
+* What resources are available at your disposal to help you succeed in the role?
 
 ## The Hiring Manager
 * Who will I be working closely with?
 * How do you fit a person to a specific job/duty/customer. What specific qualities do you like to see?
 * What technologies would I be working with, specifics?
+* What resources are available at your disposal to help you succeed in the role?
 * How do you reward achievers and keep your team motivated to give their best "consistently"?
 * What in your opinion is the best advice you've ever given to your team or an individual so far?
 * How do you keep things exciting, so everyone looks forward to coming to work everyday? Team-Building Activities? Contests?
