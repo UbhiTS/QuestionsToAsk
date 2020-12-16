@@ -8,6 +8,7 @@ The list of questions you can ask your interviewer categorized by the interviewe
 * How is the energy? What do you do for fun ?
 * Knowing my background, what do you think I need to focus on to succeed?
 * What resources are available at your disposal to help you succeed in the role?
+* What's the difference between customer A vs B (or any other customer)?
 
 ## The Hiring Manager
 * Who will I be working closely with?
