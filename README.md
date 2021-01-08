@@ -6,15 +6,6 @@ The list of questions you can ask your interviewer categorized by the interviewe
 * What is your relationship with the hiring manager and what can you tell me about him/her?
 * What is the interview process and what types of questions should I expect?
 
-## Your Peer
-* What do the day-to-day responsibilities of the role look like?
-* How is the work-life balance. Is the work culture aggressive? Long hours?
-* Assuming COVID situation is gone, is traveling required?
-* How is the energy? What do you do for fun ?
-* Knowing my background, what do you think I need to focus on to succeed?
-* What resources are available at your disposal to help you succeed in the role?
-* What's the difference between customer A vs B (or any other customer)?
-
 ## The Hiring Manager
 * Who will I be working closely with?
 * How do you fit a person to a specific job/duty/customer. What specific qualities do you like to see?
@@ -24,9 +15,14 @@ The list of questions you can ask your interviewer categorized by the interviewe
 * What in your opinion is the best advice you've ever given to your team or an individual so far?
 * How do you keep things exciting, so everyone looks forward to coming to work everyday? Team-Building Activities? Contests?
 
-## HR, Diversity & Inclusion
-* What's the mix of the team right now?
-* What's the one change you'd like to see in the team besides gender and LGBTQ?
+## Your Peer
+* What do the day-to-day responsibilities of the role look like?
+* How is the work-life balance. Is the work culture aggressive? Long hours?
+* Assuming COVID situation is gone, is traveling required?
+* How is the energy? What do you do for fun ?
+* Knowing my background, what do you think I need to focus on to succeed?
+* What resources are available at your disposal to help you succeed in the role?
+* What's the difference between customer A vs B (or any other customer)?
 
 ## Account Manager
 * What specific qualities do you look for and why?
@@ -36,6 +32,10 @@ The list of questions you can ask your interviewer categorized by the interviewe
 
 ## Customer Relations / Solutions Manager
 * What does success look like in this position, and how do you measure it?
+
+## HR, Diversity & Inclusion
+* What's the mix of the team right now?
+* What's the one change you'd like to see in the team?
 
 ## Solutions Architect
 * What's the one quality that's helped you advance in the company
