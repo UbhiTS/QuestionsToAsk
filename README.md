@@ -1,6 +1,11 @@
 # Questions To Ask Your Interviewers :chicken: <img src="https://poa5qzspd7.execute-api.us-east-1.amazonaws.com/live/hypercounterimage/8f27d4a61b7c44f58658e41dd7d8597a/counter.png" />
 The list of questions you can ask your interviewer categorized by the interviewer's designation. Most of the below questions are designation agnostic and can be asked to anyone. Categorization makes it easier to direct the right questions to the right person :)
 
+## The Recruiter
+* Would you recommend any changes to my resume or cover letter?
+* What is your relationship with the hiring manager and what can you tell me about him/her?
+* What is the interview process and what types of questions should I expect?
+
 ## Your Peer
 * What do the day-to-day responsibilities of the role look like?
 * How is the work-life balance. Is the work culture aggressive? Long hours?
